@@ -1,6 +1,6 @@
 ---
 author-meta:
-- John Doe
+- Christopher Tessum
 - Jane Roe
 bibliography:
 - content/manual-references.json
@@ -15,13 +15,13 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="Manuscript Title" />
+  <meta name="dc.title" content="Data science project" />
 
-  <meta name="citation_title" content="Manuscript Title" />
+  <meta name="citation_title" content="Data science project" />
 
-  <meta property="og:title" content="Manuscript Title" />
+  <meta property="og:title" content="Data science project" />
 
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta property="twitter:title" content="Data science project" />
 
   <meta name="dc.date" content="2020-12-02" />
 
@@ -39,13 +39,9 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Christopher Tessum" />
 
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-
-  <meta name="twitter:creator" content="@johndoe" />
 
   <meta name="citation_author" content="Jane Roe" />
 
@@ -67,11 +63,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://ctessum.github.io/dsproject/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://ctessum.github.io/dsproject/v/82dcfa658ed693237e5d4a997633e6b6a981f9d0/" />
+  <link rel="alternate" type="text/html" href="https://ctessum.github.io/dsproject/v/32c80b2fd72d785817a0b01c368b38dc7cddb4fc/" />
 
-  <meta name="manubot_html_url_versioned" content="https://ctessum.github.io/dsproject/v/82dcfa658ed693237e5d4a997633e6b6a981f9d0/" />
+  <meta name="manubot_html_url_versioned" content="https://ctessum.github.io/dsproject/v/32c80b2fd72d785817a0b01c368b38dc7cddb4fc/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://ctessum.github.io/dsproject/v/82dcfa658ed693237e5d4a997633e6b6a981f9d0/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://ctessum.github.io/dsproject/v/32c80b2fd72d785817a0b01c368b38dc7cddb4fc/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -85,15 +81,15 @@ header-includes: '<!--
 
   <!-- end Manubot generated metadata -->'
 keywords:
-- markdown
-- publishing
+- Data
+- Science
 - manubot
 lang: en-US
 manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: Data science project
 ...
 
 
@@ -103,9 +99,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://ctessum.github.io/dsproject/v/82dcfa658ed693237e5d4a997633e6b6a981f9d0/))
+([permalink](https://ctessum.github.io/dsproject/v/32c80b2fd72d785817a0b01c368b38dc7cddb4fc/))
 was automatically generated
-from [ctessum/dsproject@82dcfa6](https://github.com/ctessum/dsproject/tree/82dcfa658ed693237e5d4a997633e6b6a981f9d0)
+from [ctessum/dsproject@32c80b2](https://github.com/ctessum/dsproject/tree/32c80b2fd72d785817a0b01c368b38dc7cddb4fc)
 on December 2, 2020.
 </em></small>
 
@@ -113,13 +109,9 @@ on December 2, 2020.
 
 
 
-+ **John Doe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
++ **Christopher Tessum**<br>
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [ctessum](https://github.com/ctessum)<br>
   <small>
      Department of Something, University of Whatever
      · Funded by Grant XXXXXXXX
